@@ -8,7 +8,6 @@ Ele pode tentar diferentes senhas para um usuário específico, diferentes usuá
 - **Nome: Filipe Malaquias Londrino**  
 - **E-mail: malaquias@devdesucesso.net** 
 - **Contacto: 933146546**
-- **GitHub:** [https://github.com/seunome](https://github.com/seunome)
 
 ## Requisitos
 
