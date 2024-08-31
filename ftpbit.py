@@ -6,6 +6,25 @@ import socket
 import re
 import time
 
+print("""
+        ##########################################
+        ################        ##################
+        ##########                     ###########
+        ####                                  ####
+        ##               #######                ##
+        ##               #######                ##
+        ####                                  ####
+        ##########                     ###########
+        ################        ##################
+        ##########################################
+
+
+        - Nome: Filipe Malaquias Londrino  
+        - E-mail: malaquias@devdesucesso.net 
+        - Contacto: 933146546
+
+""")
+
 def brute_force_user(server, user, password_list):
     with open(password_list, 'r') as passwords:
         for key in passwords.readlines():
